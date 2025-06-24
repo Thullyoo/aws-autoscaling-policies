@@ -1,4 +1,4 @@
-# Projeto - [ AWS / Teste de Escalabilidade ] - Infraestrutura AWS
+# Projeto de Infraestutura - [ AWS / Teste de Escalabilidade ]
 
 ## Visão Geral
 
