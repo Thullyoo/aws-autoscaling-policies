@@ -236,6 +236,7 @@ systemctl enable httpd
 
 - Revise e crie as políticas:
 
+  - É necessário ir até os alarmes, editar suas metricas e por novamente o RequestCount pois ela muda ao associar a uma política.
   - Clique em "Create" para finalizar a criação de ambas politicas.
 
 ### Passo 6: Teste
