@@ -228,10 +228,10 @@ systemctl enable httpd
   - Clicamos em Create dynamic scaling policy
     ![](./images/ats6.png)
 
-- Definimos uma politica de adicionar uma instância quando o alarme de alto que criamos anteriormente alertar
+- Definimos uma politica de adicionar uma instância quando o alarme de escala para cima que criamos anteriormente disparar.
   ![](./images/ats7.png)
 
-- Definimos uma politica de remover uma instância quando o alarme de baixo que criamos anteriormente alertar  
+- Definimos uma politica de remover uma instância quando o alarme de escala para baixo que criamos anteriormente disparar.  
   ![](./images/ats8.png)
 
 - Revise e crie as políticas:
